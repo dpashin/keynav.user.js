@@ -1,0 +1,2 @@
+Greasemonkey script to use Ctrl-Left and Ctrl-Right instead of mouse to switch prev or next page. 
+Add your own config using jquery selectors.
